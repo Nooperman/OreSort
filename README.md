@@ -1,2 +1,2 @@
 # OreSort
-Basic sorting program for you Rex:Reincarnated ore comps!
+Basic sorting program for your Rex:Reincarnated ore comps!
